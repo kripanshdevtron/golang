@@ -1,1 +1,9 @@
 .jq-template.awk
+.idea
+.DS_Store
+.vscode
+.env
+/cmd/external-app/devtron-ea
+devtron
+/vendor/github.com/argoproj/argo-cd/assets
+
